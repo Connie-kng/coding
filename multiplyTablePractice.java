@@ -1,4 +1,4 @@
-public class practice_1
+public class multiplyTablePractice
 {
     public static void main(String[] args)
     {
@@ -9,6 +9,7 @@ public class practice_1
     		System.out.print(j+"*"+i+"="+a+'\t');
     	}
     	System.out.println("");
-    	}
+
+    	}System.out.print("new branch");
     }
 }
